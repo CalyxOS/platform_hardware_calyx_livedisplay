@@ -19,6 +19,8 @@
 #include <android-base/macros.h>
 #include <vendor/lineage/livedisplay/2.0/IDisplayModes.h>
 
+#include <functional>
+
 #include "SDMController.h"
 
 namespace vendor {
